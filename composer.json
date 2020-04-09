@@ -1,0 +1,16 @@
+{
+    "name": "chmald/php-composer-symlink",
+    "require": {
+        "nikic/php-parser": "^4.3",
+        "nesbot/carbon": "^2.32",
+        "psy/psysh": "^0.10.3",
+        "phpunit/phpunit": "^9.1",
+        "beyondcode/laravel-dump-server": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Christopher Maldonado",
+            "email": "chmald@microsoft.com"
+        }
+    ]
+}
